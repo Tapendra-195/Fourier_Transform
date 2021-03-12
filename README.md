@@ -20,3 +20,8 @@ coordinate.txt is the sample data. The code Fourier can directly be used after u
 1)cmake . </br>
 2)make </br>
 3)./Fourier =>to run on the sample data</br>
+
+# Requirements
+1)OpenCV</br>
+2)C++</br>
+3)cmake (to compile)
