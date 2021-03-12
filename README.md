@@ -14,3 +14,9 @@ double click left mouse button to save and exit.</br>
 
 # Function to perform Fourier transform </br>
 Fourier.cpp</br>
+
+# Sample data
+coordinate.txt is the sample data. The code Fourier can directly be used after using </br>
+1)cmake . </br>
+2)make </br>
+3)./Fourier =>to run on the sample data</br>
